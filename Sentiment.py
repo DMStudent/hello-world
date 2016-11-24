@@ -8,12 +8,11 @@ import numpy as np #导入Numpy
 import jieba #导入结巴分词
  
 from keras.preprocessing import sequence
-from keras.optimizers import SGD, RMSprop, Adagrad
 from keras.utils import np_utils
 from keras.models import Sequential
 from keras.layers.core import Dense, Dropout, Activation
 from keras.layers.embeddings import Embedding
-from keras.layers.recurrent import LSTM, GRU
+from keras.layers.recurrent import LSTM
  
 neg=pd.read_excel('neg.xls',header=None,index=None)
 #neg = neg.head(32)
