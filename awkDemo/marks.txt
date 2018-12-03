@@ -1,0 +1,13 @@
+1) Amit Physics 80
+2) Rahul Maths 90
+3) Shyam Biology 87
+4) Kedar English 85
+5) Hari History 89
+6) Amit Physics 82
+7) Rahul Maths 92
+8) Shyam Biology 83
+9) Kedar English 86
+10) Hari History 84
+11) Kedar English 89
+12) Hari History 85
+
